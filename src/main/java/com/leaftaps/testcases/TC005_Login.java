@@ -11,8 +11,8 @@ public class TC005_Login extends ProjectHooks{
 	public void setValues() {
 		testcaseName = "Login";
 		testDescription ="Login to Leaftaps";
-		authors="Mohan test";
 		category ="Sanity";
+		authors="Mohan";
 		excelFileName="Login";
 	}
 	
