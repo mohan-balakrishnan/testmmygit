@@ -43,7 +43,7 @@ Q.2. In a real-world project where you implemented the Page Object Model (POM), 
    - **Readability:** Test scripts gain clarity and expressiveness as high-level actions on a page are abstracted into method calls within the corresponding Page Object.
    
    **Reference Link:**
-     https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/
+     [Test Practices](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
 
 2. **Use Case:**
    We worked with an e-commerce website with a multi-step checkout process involving distinct pages such as Cart, Shipping, and Payment. Leveraging the POM, we crafted a Page Object for each of these pages, encapsulating specific elements and actions. This modular approach facilitated streamlined test case creation and maintenance.
