@@ -748,14 +748,14 @@ Syntax:
 </div> 
 
  To select the `<span>` element that follows the first `<span>` element, I  will use the following XPath: 
-
-//span[text() = 'Element 1']/following-sibling::span[1] 
-
-To select the <span> element that precedes the third <span> element, you will use the following XPath: 
-
-//span[text() = 'Element 3']/preceding-sibling::span[1] 
-
  
+```
+//span[text() = 'Element 1']/following-sibling::span[1] 
+```
+To select the <span> element that precedes the third <span> element, you will use the following XPath: 
+```
+//span[text() = 'Element 3']/preceding-sibling::span[1] 
+```
 
 Selecting an ancestor element: 
 
