@@ -779,7 +779,8 @@ To select the `<div>` element with an id of "grandparent" that is an ancestor of
 
  ```
    //span[text() = 'Target Element']/ancestor::div[@id = 'grandparent'] 
-    ```
+ ```
+
 ================================================================================================================
 Q.20. How would you set up a Selenium test to run in a headless mode for a specific browser version? Can you talk through the process and the considerations you would have?   
 1. **Explanation:**
